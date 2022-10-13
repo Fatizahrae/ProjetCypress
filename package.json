@@ -1,0 +1,17 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "cypress": "^3.8.3",
+    "mocha": "^10.0.0"
+  }
+}
