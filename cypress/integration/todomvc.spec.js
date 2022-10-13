@@ -12,7 +12,7 @@ describe('todo action', ()=>{
         
     })
 
-    it('should be able to add ro do to the liste',()=>{
+    it('should be able to add to do to the liste',()=>{
 
        // todoPage.validateTodoText(0,'clean room')
         cy.get('.toggle').should('not.be.checked')
