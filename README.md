@@ -1,11 +1,14 @@
 # testNodeJS
 Features:
-    -ADD to Element to do list
-    -Mark a to do as complet
-    -Clean the todo list
+  -ADD to Element to do list
+   -Mark a to do as complet
+  -Clean the todo list
 
 Tech
-    -Cypress
-    -Mocha
+   -Cypress
+   -Mocha
+    
+    
+    
 Installation and run in local
 
